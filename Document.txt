@@ -1,0 +1,11 @@
+using mysql workbench
+8.0.28
+ 
+i made a connection named BookStore2
+and schema with name bookstore2_schema 
+ and this is my connection sreings 
+"jdbc:mysql://127.0.0.1:3306/bookstore2_schema",
+                    "root",
+                    "Omar12345"
+file online_BooKStore has all the program with its all dependencies
+and file bookstore2_schema has all the tables in my database
